@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055394808593",
+    "project_id": "quickbites-4e15d",
+    "storage_bucket": "quickbites-4e15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055394808593:android:ba4ad42ea6e82832ae02b0",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055394808593-de2lhm41onjk4hpgvdpsr407bdlq8u92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food",
+            "certificate_hash": "4b2d1283de42d990275d6300387e015203808e9d"
+          }
+        },
+        {
+          "client_id": "1055394808593-pvrsj3v35tdj3ksoiuc9pslc3dck0h3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBLLSBXb1mOixdQypaZkRYL2WOHslbq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055394808593-3kbko6pbs60vsel356l1igkute6v7ov3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
